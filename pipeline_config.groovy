@@ -3,7 +3,7 @@ libraries{
     deploy_to
   }
   maven{
-    message = "My config message"
+    message = "My config message from Governance"
     build
   }
 }
